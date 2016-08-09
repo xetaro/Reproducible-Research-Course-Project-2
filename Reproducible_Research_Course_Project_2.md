@@ -163,7 +163,7 @@ title (main = "Fatalities: Top 10 Events", line=-5)
 title (ylab = "Total number of Fatalities", line=4)
 ```
 
-![](Reproducible_Research_Course_Project_2_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](https://github.com/xetaro/Reproducible-Research-Course-Project-2/blob/master/plot_1.png)
 
 6. Selecting events that cause the most injuries.
 -------------------------------------------------

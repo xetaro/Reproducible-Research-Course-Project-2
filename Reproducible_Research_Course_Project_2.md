@@ -193,7 +193,7 @@ title (main = "Injuries: Top 10 Events", line=-5)
 title (ylab = "Total number of Injuries", line=4)
 ```
 
-![](Reproducible_Research_Course_Project_2_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](https://github.com/xetaro/Reproducible-Research-Course-Project-2/blob/master/plot_2.png)
 
 8. Total economic damage produced by each type of event.
 --------------------------------------------------------
@@ -297,7 +297,7 @@ title (main = "Total Damages", line=-1)
 title (ylab = "Damage Cost ($ billions)", line=3)
 ```
 
-![](Reproducible_Research_Course_Project_2_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](https://github.com/xetaro/Reproducible-Research-Course-Project-2/blob/master/plot_3.png)
 
 Results and Conclusions
 -----------------------
